@@ -10,7 +10,7 @@ const customerPage = new CustomerPage
 const profilePage = new ProfilePage
 const documentPage = new DocumentPage
 
-describe("efinancial login test", () => {
+describe("efinancial security test", () => {
     const testData = require('../fixtures/dataProvider.json')
 
     beforeEach(() => {
